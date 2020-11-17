@@ -1,6 +1,6 @@
 # joke_app_orientation
 
-A new Flutter application.
+A new Flutter application for a simple Joke app.
 
 ## Getting Started
 
